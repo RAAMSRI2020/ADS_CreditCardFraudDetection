@@ -15,5 +15,12 @@ pip install all the dependencies
 Compile the code by using any of the IDE's like Jupyter Notebook,Google Colab,Visual Studio code 
 Load the dataset in the IDE's and run the code
 
+# Code
+Our coding consists of several steps like: 
+Loading data
+Creating DataFrame
+Data pre-processing
+Model training
+Model Evaluation
 
-
+The accuarcy score is 0.98765 and able to detect 98 transactions in 100 whether fraud or legit
