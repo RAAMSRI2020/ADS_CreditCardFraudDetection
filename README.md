@@ -10,3 +10,10 @@ scipy   1.9.1
 sklearn  0.0.post10
 
 pip install all the dependencies
+
+# Compilation:
+Compile the code by using any of the IDE's like Jupyter Notebook,Google Colab,Visual Studio code 
+Load the dataset in the IDE's and run the code
+
+
+
